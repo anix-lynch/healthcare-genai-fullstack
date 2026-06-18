@@ -1,4 +1,5 @@
 # healthcare-signal-platform
+**Built by [Anix Lynch](https://gozeroshot.dev) — LA-based AI/Data Engineer**
 
 > **openFDA evaluated signal platform (Bullet 5) + cross-cloud portability (Bullet 6).**
 > Five cheap signals (anomaly · cluster · classify · rank · retrieval) score real openFDA
